@@ -1,53 +1,60 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "firstName": "John",
-            "lastName": "Dou",
-            "email": "j.dou@gmail.com",
-            "age": 35,
-            "companyId": 1
-        },
-        {
-            "id": 2,
-            "firstName": "Mark",
-            "lastName": "Williams",
-            "email": "m.williams@gmail.com",
-            "age": 30,
-            "companyId": 2
-        },
-        {
-            "id": 3,
-            "firstName": "Sara",
-            "lastName": "Thompson",
-            "email": "s.thompson@gmail.com",
-            "age": 25,
-            "companyId": 1
-        },
-        {
-            "id": 4,
-            "firstName": "Kevin",
-            "lastName": "Jackson",
-            "email": "k.jackson@gmail.com",
-            "age": 20,
-            "companyId": 3
-        }
-    ],
-    "companies": [
-        {
-            "id": 1,
-            "name": "Apple",
-            "description": "Apple is a global technology company known for designing and manufacturing consumer electronics, software, and services. Its most famous products include the iPhone, iPad, Mac computers, Apple Watch, and software like iOS and macOS. Apple focuses on innovation, premium design, and a seamless user experience."
-        },
-        {
-            "id": 2,
-            "name": "Google",
-            "description": "Google is a multinational technology company that specializes in internet-related services and products, including search engines, advertising technologies, cloud computing, software, and hardware. Its best-known product is the Google search engine, but it also owns YouTube, Android, and Google Cloud, among others."
-        },
-        {
-            "id": 3,
-            "name": "Microsoft",
-            "description": "Microsoft is a technology company that develops, manufactures, and sells software, hardware, and services. It is best known for its Windows operating system, Office software suite, and Azure cloud platform. Microsoft is also involved in gaming (Xbox) and professional networking (LinkedIn)."
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Dou",
+      "email": "j.dou@gmail.com",
+      "age": "35",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Mark",
+      "lastName": "Williams",
+      "email": "m.williams@gmail.com",
+      "age": "30",
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Smith",
+      "email": "s.thompson@gmail.com",
+      "age": "25",
+      "companyId": "1"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Howell",
+      "age": "45",
+      "email": "t.howell@gmail.com",
+      "company_Id": "2",
+      "id": "KsUHD8w"
+    },
+    {
+      "firstName": "Clementine",
+      "lastName": "Bauch",
+      "age": "15",
+      "email": "c.bauch@gmail.com",
+      "id": "O9gHoSa"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple is a global technology company known for designing and manufacturing consumer electronics, software, and services. Its most famous products include the iPhone, iPad, Mac computers, Apple Watch, and software like iOS and macOS. Apple focuses on innovation, premium design, and a seamless user experience."
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Google is a multinational technology company that specializes in internet-related services and products, including search engines, advertising technologies, cloud computing, software, and hardware. Its best-known product is the Google search engine, but it also owns YouTube, Android, and Google Cloud, among others."
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "Microsoft is a technology company that develops, manufactures, and sells software, hardware, and services. It is best known for its Windows operating system, Office software suite, and Azure cloud platform. Microsoft is also involved in gaming (Xbox) and professional networking (LinkedIn)."
+    }
+  ]
 }
